@@ -15,4 +15,4 @@ Full project specs can be found [here](https://www.theodinproject.com/lessons/no
 - https://www.svgrepo.com/svg/532539/location-pin
 
 ##### Live Preview
-- https://mjcw88-odin-cv-application.netlify.app/
+- https://thriftymeerkat-odin-cv-application.netlify.app/
