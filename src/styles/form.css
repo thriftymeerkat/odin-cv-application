@@ -186,7 +186,7 @@ textarea {
     .form-cv-container {
         flex-direction: row;
         align-items: start;
-        max-width: 3000px;
+        max-width: 2000px;
     }
 
     .edit-btn-container,
